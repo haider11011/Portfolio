@@ -14,7 +14,7 @@ export function About() {
 				/>
 			</div>
 			<p className="mt-5 w-4/5">
-				Hi! I am Haider Ali Lokhand, a student from Banswara, Rajasthan
+				Hi,there! I am Haider Ali Lokhand, a student from Banswara, Rajasthan
 				currently pursuing and looking for opportunities in the field of
 				Machine Learning/ Deep Learning.
 			</p>
